@@ -3,7 +3,7 @@
 const IMAGE_DIR = "images/";
 const IMAGES = [
   { file: "A-Beautiful-Day.png", title: "A Beautiful Day" },
-  { file: "ASE-Journal-Cover-Art.png", title: "ASE Journal Cover Art" },
+  { file: "ASE Journal Cover Entry.png", title: "ASE Journal Cover Entry" },
   { file: "Chronic-Pain.png", title: "Chronic Pain" },
   { file: "Dental-Plaque-Formation.png", title: "Dental Plaque Formation" },
   { file: "Dr-E-&-Pip Character Design.png", title: "Dr E & Pip Character Design" },
